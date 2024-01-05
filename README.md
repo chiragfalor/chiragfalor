@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Chirag Falor, a senior at MIT. My interests span physics, math, and computer science.
+
+![](https://komarev.com/ghpvc/?username=chiragfalor)
+
 <!--
 **chiragfalor/chiragfalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

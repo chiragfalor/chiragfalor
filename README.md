@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chirag Falor, a senior at MIT. My interests span physics, math, and computer science.
+I am Chirag Falor, a Master's student at MIT. My interests span physics, math, and computer science.
 
 ![](https://komarev.com/ghpvc/?username=chiragfalor)
 
